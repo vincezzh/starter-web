@@ -12,6 +12,8 @@ this is three
 
 ## Deployment
 
+adding deployment info
+
 ##Sample website with plenty of files for demos
 
 gogogo copyright
