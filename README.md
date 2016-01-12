@@ -2,6 +2,7 @@
 
 this is one
 plus more content
+more and more in myfeature
 
 ##This repository is for showing how Git and GitHub work
 
