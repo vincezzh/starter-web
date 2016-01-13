@@ -7,6 +7,7 @@ more and more in myfeature
 ##This repository is for showing how Git and GitHub work
 
 this is two
+two plus go
 
 ## Purpose
 
